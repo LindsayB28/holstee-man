@@ -1,0 +1,137 @@
+#parent-div{
+	overflow:auto;
+	border: 7px solid #ccccb3;
+	width: 380px;
+	padding: 0;
+	margin: 0;
+}
+
+#column-1{
+	float:left;
+	overflow: auto;
+	width: 190px;
+}
+
+#column-2{
+	overflow: auto;
+	width: 190px;
+}
+
+.emphasis-1{
+	font-weight: bold;
+	font-family: serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+#double-quote-1{
+	background-color: #ff4d4d;
+	text-align: center;
+	line-height: 175%;
+	height: 350px;
+	padding-top: 50px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0 0 0 0;
+}
+
+.this-is-your-life {
+	font-weight: bold;
+	font-family: oswald;
+	font-size: 18;
+}
+
+.watching-tv{
+	font-family: merriweather;
+	font-weight: normal;
+}
+
+.open-your-mind {
+	background: #0066cc;
+	text-align: center;
+	font-family: poppins;
+	height: 155px;
+	padding-top: 45px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0 0 0 0;
+}
+
+.travel-often{
+	background: aqua;
+	text-align: center;
+	font-family: lexend exa;
+	line-height: 1.5;
+	height: 125px;
+	padding-top: 75px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0 0 0 0;
+}
+
+.opportunities{
+	background: #0099e6;
+	font-weight: bold;
+	font-family: serif;
+	font-size: 14px;
+	line-height: 1.5;
+	text-align: center;
+	height: 125px;
+	padding-top: 75px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0 0 0 0;
+}
+
+.love-of-life {
+	background: #0066cc;
+	text-align: center;
+	font-family: poppins;
+	height: 170px;
+	padding-top: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0 0 0 0;
+}
+
+.life-is-simple {
+	background: aqua;
+	text-align: center;
+	font-family: lexend exa;
+	height: 165px;
+	padding-top: 35px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0 0 0 0;
+}
+
+.ask-the-person{
+	background: #0099e6;
+	font-family: poppins;
+	text-align: center;
+	height: 160px;
+	padding-top: 40px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0 0 0 0;
+}
+
+#double-quote-2{
+	background: #ff4d4d;
+	text-align: center;
+	height: 325px;
+	padding-top: 75px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 0 0 0 0;
+}
+
+.people-you-meet{
+	font-weight: bold;
+	font-family: oswald;
+}
+
+.life-is-short{
+	font-family: merriweather;
+	font-weight: normal;
+}
